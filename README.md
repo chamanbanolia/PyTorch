@@ -1,5 +1,5 @@
 # PyTorch
-My PyTorch Workspace for learning
+My PyTorch Fresco Learning Workspace
 
 ## PyTorch:
 * [PyTorch](https://pytorch.org/) is a Python-based library built by Facebook's Artificial Intelligence research group.
